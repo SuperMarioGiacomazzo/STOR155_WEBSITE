@@ -1,5 +1,5 @@
 ---
-title: '**STOR 155: Introduction to Data Models and Inference**'
+title: '**STOR 155: Introductory Statistics**'
 geometry: margin=2
 output:
   html_document:
