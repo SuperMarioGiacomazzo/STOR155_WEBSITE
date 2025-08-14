@@ -1,0 +1,143 @@
+---
+title: '**STOR 155: Introduction to Data Models and Inference**'
+geometry: margin=2
+output:
+  html_document:
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+    includes:
+      in_header: "favicon.html"
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+<style type="text/css">
+
+div {
+color: #13294B;
+}
+
+#TOC {
+  color: #4B9CD3;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  color: #4B9CD3;
+  background-color: #13294B;
+}
+
+a:link {
+    color: #4B9CD3;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #4B9CD3;
+
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
+
+.main-container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+</style>
+This class is called "Introduction to Data Models and Inference", but let's not get crazy, this is the most basic stats course that exists at every university in the world. Topics include: 
+
+- Sampling and Experimental Design
+- Descriptive Statistics: Means, Standard Deviations, and Visuals
+- Inferential Statistics: Hypothesis Testing and Confidence Intervals
+- Basic Modeling : Correlation and Regression
+- Basic Probability: Discrete and Continuous Random Variables
+- Use of Microsoft Excel
+
+<div class="row">
+  <div class="column">
+
+- Instructor: **[Mario Giacomazzo](https://stor.unc.edu/people/faculty/)**
+
+- Graduate Teaching Assitant: 
+    - Srivatsa Balaji
+    - Email: TBD
+
+- Course Syllabus: 
+    - **[155.002](Syllabi/STOR155_002_SYLLABUS.pdf)**: TTh, 3:30PM - 4:45AM, Hanes 120
+    - **[155.003](Syllabi/STOR155_003_SYLLABUS.pdf)**: TTh, 5:00PM - 6:15AM, Hanes 120
+
+- Office Hours: 
+    - Dr. Mario: M, 1:30PM - 4:30PM, Hanes 134
+    - Srivatsa: TBD
+    
+- Attendance: **[UNC Check-in App](https://unccheckin.unc.edu/)**
+
+- University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
+
+- Textbook: **[OpenIntro Statistics (4th Edition)](Textbooks/STOR 155 Textbook 2019 Edition.pdf)** (OIS)
+
+  </div>
+  <div class="column">
+  <img src="UNC_Logo.png" width="140px" height="auto">
+  </div>
+</div> 
+
+# **Instructions for the First Day of Class**
+- Bookmark this **[course website](https://supermariogiacomazzo.github.io/STOR155_WEBSITE/)** in your browser
+- Get familiar with the course website and Canvas
+- View the syllabus using the hyperlink on the course website
+- Download the **[UNC Check-in App](https://unccheckin.unc.edu/#studentFAQ)** on your Mobile Phone
+- Register for Webassign: Obtain Access from Bookstore or Webassign
+    - Class Key for Section 2: unc 6373 3995
+    - Cass Key for Section 3: unc 0937 8893 
+- Have Microsoft Excel Installed on Your Laptop
+
+# **Course Material**
+
+| Date | Lecture | Slides | Supplement |
+|:---------:|:---------:|:---------:|:---------:|
+| AUG 19 | Intro/Syllabus |||
+| OCT 2 | Midterm 1 |||
+| OCT 7| <span style="color: red;">Well-Being</span> |||
+| OCT 16| <span style="color: red;">Fall Break</span> |||
+| NOV 13| Midterm 2 |||
+| NOV 27| <span style="color: red;">Thanksgiving</span> |||
+| DEC 2|  ||Last Day of Class|
+| DEC 11| Final Exam ||Section 2|
+| DEC 12| Final Exam ||Section 3|
+|||||
+
+# **Assessment Tracker**
+
+All HW assignments are to be submitted via Webassign. Exams will be taken on paper in Hanes 120. The table below shows all the assessments sorted by the assigned date. 
+
+| Assigned |Homework (HW) | Exams | Due Date (Time) |
+|----------|:--------:|:--------:|----------------:|
+|AUG 21| HW 1 | | AUG 26 (11:59PM)|
+|          |   |     |             |
+
+
+
+ 
+
+
