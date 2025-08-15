@@ -76,11 +76,13 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 <div class="row">
   <div class="column">
 
-- Instructor: **[Mario Giacomazzo](https://stor.unc.edu/people/faculty/)**
+- Instructor: 
+    - Dr. Mario Giacomazzo
+    - Email: mgiacoma@email.unc.edu
 
 - Graduate Teaching Assitant: 
     - Srivatsa Balaji
-    - Email: TBD
+    - Email: sri02@unc.edu
 
 - Course Syllabus: 
     - **[155.002](Syllabi/STOR155_002_SYLLABUS.pdf)**: TTh, 3:30PM - 4:45AM, Hanes 120
@@ -111,6 +113,12 @@ This class is called "Introduction to Data Models and Inference", but let's not 
     - Class Key for Section 2: unc 6373 3995
     - Cass Key for Section 3: unc 0937 8893 
 - Have Microsoft Excel Installed on Your Laptop
+
+# **Open Tutorial Sessions**
+- Sunday Through Thursday
+- 7:00PM to 9:00PM
+- Remote
+- [Zoom Link]()
 
 # **Course Material**
 
