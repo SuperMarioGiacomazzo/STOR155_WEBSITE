@@ -109,7 +109,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 - Get familiar with the course website and Canvas
 - View the syllabus using the hyperlink on the course website
 - Download the **[UNC Check-in App](https://unccheckin.unc.edu/#studentFAQ)** on your Mobile Phone
-- Register for [Webassign](https://www.webassign.net/): Obtain Access from Bookstore or Webassign
+- Register for **[Webassign](https://www.webassign.net/)**: Obtain Access from Bookstore or Webassign
     - Class Key for Section 2: unc 6373 3995
     - Cass Key for Section 3: unc 0937 8893 
 - Have Microsoft Excel Installed on Your Laptop
@@ -124,7 +124,10 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 
 | Date | Topic | Lecture | Supplement |Reading|
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-| AUG 19 | Syllabus/Intro |[PDF](Lectures/Lecture_1_1.pdf)||1.1|
+| AUG 19 | Syllabus/Intro |[PDF](Lectures/Lecture1/Section_1_1.pdf)|[stent365](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture1/stent365.xlsx)|1.1|
+| AUG 21 | Data Basics |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
+|  |Sampling Strategies|[PDF](Lectures/Lecture3/Section_1_3.pdf)||1.3|
+| AUG 26 | Experiments|[PDF](Lectures/Lecture4/Section_1_4.pdf)||1.4|
 | OCT 2 | Midterm 1 ||||
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
