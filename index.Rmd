@@ -90,7 +90,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 
 - Office Hours: 
     - Dr. Mario: M, 1:30PM - 4:30PM, Hanes 134
-    - Srivatsa: TBD
+    - Srivatsa: F, 9:30AM - 11:30AM, Hanes B-44
     
 - Attendance: **[UNC Check-in App](https://unccheckin.unc.edu/)**
 
@@ -104,12 +104,12 @@ This class is called "Introduction to Data Models and Inference", but let's not 
   </div>
 </div> 
 
-# **Instructions for the First Day of Class**
+# **Instructions for the First Day**
 - Bookmark this **[course website](https://supermariogiacomazzo.github.io/STOR155_WEBSITE/)** in your browser
 - Get familiar with the course website and Canvas
 - View the syllabus using the hyperlink on the course website
 - Download the **[UNC Check-in App](https://unccheckin.unc.edu/#studentFAQ)** on your Mobile Phone
-- Register for Webassign: Obtain Access from Bookstore or Webassign
+- Register for [Webassign](https://www.webassign.net/): Obtain Access from Bookstore or Webassign
     - Class Key for Section 2: unc 6373 3995
     - Cass Key for Section 3: unc 0937 8893 
 - Have Microsoft Excel Installed on Your Laptop
@@ -122,17 +122,17 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 
 # **Course Material**
 
-| Date | Lecture | Slides | Supplement |
-|:---------:|:---------:|:---------:|:---------:|
-| AUG 19 | Intro/Syllabus |||
-| OCT 2 | Midterm 1 |||
-| OCT 7| <span style="color: red;">Well-Being</span> |||
-| OCT 16| <span style="color: red;">Fall Break</span> |||
-| NOV 13| Midterm 2 |||
-| NOV 27| <span style="color: red;">Thanksgiving</span> |||
-| DEC 2|  ||Last Day of Class|
-| DEC 11| Final Exam ||Section 2|
-| DEC 12| Final Exam ||Section 3|
+| Date | Topic | Lecture | Supplement |Reading|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| AUG 19 | Syllabus/Intro |[PDF](Lectures/Lecture_1_1.pdf)||1.1|
+| OCT 2 | Midterm 1 ||||
+| OCT 7| <span style="color: red;">Well-Being</span> ||||
+| OCT 16| <span style="color: red;">Fall Break</span> ||||
+| NOV 13| Midterm 2 ||||
+| NOV 27| <span style="color: red;">Thanksgiving</span> ||||
+| DEC 2|  ||Last Day of Class||
+| DEC 11| Final Exam ||Section 2||
+| DEC 12| Final Exam ||Section 3||
 |||||
 
 # **Assessment Tracker**
