@@ -118,7 +118,8 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 - Sunday Through Thursday
 - 7:00PM to 9:00PM
 - Remote
-- [Zoom Link]()
+- [Zoom Link](https://unc.zoom.us/j/91025408971)
+- First Session on 8/24
 
 # **Course Material**
 
@@ -144,7 +145,7 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 
 | Assigned |Homework (HW) | Exams | Due Date (Time) |
 |----------|:--------:|:--------:|----------------:|
-|AUG 21| HW 1 | | AUG 26 (11:59PM)|
+|AUG 21| HW 1 | | AUG 28 (11:59PM)|
 |          |   |     |             |
 
 
