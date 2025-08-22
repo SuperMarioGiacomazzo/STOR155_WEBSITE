@@ -127,8 +127,9 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 | AUG 19 | Syllabus/Intro |[PDF](Lectures/Lecture1/Section_1_1.pdf)|[stent365](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture1/stent365.xlsx)|1.1|
 | AUG 21 | Data Basics |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
+| AUG 26 | Data Basics |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
 |  |Sampling Strategies|[PDF](Lectures/Lecture3/Section_1_3.pdf)||1.3|
-| AUG 26 | Experiments|[PDF](Lectures/Lecture4/Section_1_4.pdf)||1.4|
+| AUG 28 | Experiments|[PDF](Lectures/Lecture4/Section_1_4.pdf)||1.4|
 | OCT 2 | Midterm 1 ||||
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
