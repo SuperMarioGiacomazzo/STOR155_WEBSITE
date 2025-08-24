@@ -98,6 +98,8 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 
 - Textbook: **[OpenIntro Statistics (4th Edition)](Textbooks/STOR 155 Textbook 2019 Edition.pdf)** (OIS)
 
+- [Sports Analytics Intelligence Lab (SAIL)](https://supermariogiacomazzo.github.io/sports-analytics-intelligence-laboratory/)
+
   </div>
   <div class="column">
   <img src="UNC_Logo.png" width="140px" height="auto">
@@ -147,6 +149,7 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 | Assigned |Homework (HW) | Exams | Due Date (Time) |
 |----------|:--------:|:--------:|----------------:|
 |AUG 21| HW 1 | | AUG 28 (11:59PM)|
+|AUG 28| HW 2 | | SEP 4 (11:59PM)|
 |          |   |     |             |
 
 
