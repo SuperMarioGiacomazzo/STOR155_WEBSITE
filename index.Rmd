@@ -118,7 +118,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 
 # **Open Tutorial Sessions**
 - Sunday Through Thursday
-- 7:00PM to 9:00PM
+- 7:00PM to 8:00PM
 - Remote
 - [Zoom Link](https://unc.zoom.us/j/91025408971)
 - First Session on 8/24
@@ -129,11 +129,11 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 | AUG 19 | Syllabus/Intro |[PDF](Lectures/Lecture1/Section_1_1.pdf)|[stent365](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture1/stent365.xlsx)|1.1|
 | AUG 21 | Data Basics |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
-| AUG 26 | Data Basics |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
-|  |Sampling Strategies|[PDF](Lectures/Lecture3/Section_1_3.pdf)||1.3|
-| AUG 28 | Experiments|[PDF](Lectures/Lecture4/Section_1_4.pdf)||1.4|
+| AUG 26 | Data Basics (Cont.) |[PDF](Lectures/Lecture2/Section_1_2.pdf)|[loan50](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/loan50.xlsx),[county](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture2/county.xlsx)|1.2|
+| AUG 28  |Sampling Strategies|[PDF](Lectures/Lecture3/Section_1_3.pdf)||1.3|
+| SEP 2 | Experiments|[PDF](Lectures/Lecture4/Section_1_4.pdf)||1.4|
 | | Numerical Data|[PDF](Lectures/Lecture5/Section_2_1.pdf)|[unc2017](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture5/unc2017.xlsx),[Variance Calculation](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture5/Variance_Calculation.xlsx)|2.1|
-| | Categorical Data|[PDF](Lectures/Lecture6/Section_2_2.pdf)||2.2|
+| SEP 4| Categorical Data|[PDF](Lectures/Lecture6/Section_2_2.pdf)||2.2|
 | OCT 2 | Midterm 1 ||||
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
