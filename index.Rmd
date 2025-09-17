@@ -137,7 +137,8 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 | | Categorical Data|[PDF](Lectures/Lecture6/Section_2_2.pdf)||2.2|
 | SEP 11 | Correlation|[PDF](Lectures/Lecture7/Section_8_1-2.pdf)|[Correlation Calculation](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture7/Correlation_Calculation.xlsx), [heights](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture7/heights.xlsx)|8.1-8.2|
 | SEP 16 | Regression |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
-| SEP 18 | Probability Intro |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
+| SEP 18 | Regression (Cont.) |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
+| | Probability Intro |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
 | SEP 23 | Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
 | OCT 2 | Midterm 1 |||1.1 - 8.3|
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
