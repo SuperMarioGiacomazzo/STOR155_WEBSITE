@@ -139,7 +139,10 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 | SEP 16 | Regression |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
 | SEP 18 | Regression (Cont.) |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
 | | Probability Intro |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
-| SEP 23 | Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+|SEP 23| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
+| | Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+| SEP 25 | Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
+| SEP 30 | Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
 | OCT 2 | Midterm 1 |||1.1 - 8.3|
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
