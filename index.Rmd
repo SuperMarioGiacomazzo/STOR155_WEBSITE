@@ -141,11 +141,11 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 | | Probability Intro |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
 |SEP 23| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
 |SEP 25| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
-| | Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
-| SEP 30 | Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
-| | Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
+|SEP 30| Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+|| Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
 | OCT 2 | Midterm 1 |||1.1 - 8.3|
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
+|OCT 9| Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
 | NOV 13| Midterm 2 ||||
 | NOV 27| <span style="color: red;">Thanksgiving</span> ||||
@@ -165,9 +165,9 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 |SEP 4| HW 3 | | SEP 11 (11:59PM)|
 |SEP 11| HW 4 [barrybonds](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/barrybonds.xlsx) | | SEP 18 (11:59PM)|
 |SEP 18| HW 5 | | SEP 25 (11:59PM)|
-|SEP 25| HW 6 | | OCT 2 (11:59PM)|
+|SEP 25| HW 6 | | OCT 9 (11:59PM)|
 |OCT 2|  | Midterm 1 | OCT 2 (CLASS)|
-|OCT 2| HW 7  | | OCT 9 (11:59PM)|
+|OCT 2| HW 7  | | OCT 16 (11:59PM)|
 |OCT 9| HW 8  | | OCT 23 (11:59PM)|
 |OCT 23| HW 9  | | OCT 30 (11:59PM)|
 |OCT 30| HW 10  | | NOV 6 (11:59PM)|
