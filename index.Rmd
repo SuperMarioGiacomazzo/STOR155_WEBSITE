@@ -165,8 +165,8 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 |SEP 4| HW 3 | | SEP 11 (11:59PM)|
 |SEP 11| HW 4 [barrybonds](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/barrybonds.xlsx) | | SEP 18 (11:59PM)|
 |SEP 18| HW 5 | | SEP 25 (11:59PM)|
-|SEP 25| HW 6 | | OCT 9 (11:59PM)|
 |OCT 2|  | Midterm 1 | OCT 2 (CLASS)|
+|SEP 25| HW 6 | | OCT 9 (11:59PM)|
 |OCT 2| HW 7  | | OCT 16 (11:59PM)|
 |OCT 9| HW 8  | | OCT 23 (11:59PM)|
 |OCT 23| HW 9  | | OCT 30 (11:59PM)|
