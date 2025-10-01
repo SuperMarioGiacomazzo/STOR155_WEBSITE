@@ -1,0 +1,124 @@
+\documentclass[11pt,letterpaper,twoside]{article}
+\usepackage[english]{babel}
+\usepackage{amssymb,amsmath}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+ \oddsidemargin  0in \evensidemargin 0in
+ \topmargin   -0.25in \headheight 0.25in \headsep 0.25in
+ \textwidth   6.5in \textheight 8.75in \marginparsep 0pt \marginparwidth 0pt
+ \parskip 1ex  \parindent 0ex \footskip 20pt
+
+\newfont{\bssten}{cmssbx10}
+\newfont{\bssnine}{cmssbx10 scaled 900}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\whatizit}{Lecture 16: Confidence Intervals for Proportions}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\pagestyle{fancy}  
+\fancyhead{\bssnine STOR 155,  \whatizit}
+\fancyhead[RE]{} \fancyhead[LO]{}
+\fancyhead[LE]{\bssnine \thepage} \fancyhead[RO]{\bssnine \thepage}
+\lfoot{} \cfoot{} \rfoot{}   
+
+
+\newcommand{\var}{\mathrm{Var}}
+
+
+
+\begin{document}
+
+
+
+\thispagestyle{empty} \vspace*{-0.75in}
+
+{\bssten STOR 155: Introduction to Data Models and Inference \hfill June 12, 2024 \\
+Prof. Will Lassiter  \hfill Page 1 of \pageref{totalpag}}
+\vspace{10pt}
+\begin{center} {{\Large \bf \whatizit}} \end{center}
+
+Motivating example: A drug company is testing ``LDL-Be-Gone", a newly-developed cholesterol medication. The obvious question:  Does it work? \vspace{10pt}
+
+STEP 1: Conduct a well-controlled experiment on 100 volunteers, noting that only 10 of the 50 not using the drug saw a significant decrease in their bad cholesterol levels, while 32 of the 50 using the drug saw a significant decrease. \vspace{10pt}
+
+STEP 2: Spend \$1B mass-producing and marketing the drug? \vspace{120pt}
+
+
+Recall: Suppose we randomly sample $n$ members of a large population and classify proportion $\hat{p}$ of them as ``successes".  If $p$ represents the proportion of ``successes" in the population at large, the sampling distribution of $\hat{p}$ is ... \vspace{60pt}
+
+Then by the 68-95-99.7 rule, approximately 95\% of sample proportions $\hat{p}$ will fall between ... 
+
+\newpage
+
+Getting more precision with a z-table or Excel: \vspace{200pt}
+
+Definitions: {\bf critical value}, {\bf margin of error}, {\bf confidence interval} \vspace{350pt}
+
+Approximating standard error:
+
+\newpage
+
+Example: We are interested in the proportion $p$ of students at UNC who have engaged in binge drinking behavior at least once within the last month. In a SRS of 485 UNC students, we find that 185 have done so.  
+
+\begin{itemize}
+
+\item Find an (approximate) 95\% confidence interval for $p$. \vspace{120pt}
+
+\item Now suppose your sample size is 4*485=1940 and you have the exact same proportion of binge drinkers.  Construct another 95\% confidence interval based on this larger sample. \vspace{80pt}
+
+\end{itemize}
+
+Interpretation of ``95\% confidence" \vspace{120pt}
+
+Other confidence levels
+
+\newpage
+
+Example: Find $z^*$ for the following confidence levels:
+
+\begin{itemize}
+
+\item 90\% \vspace{50pt}
+
+\item 99\% \vspace{50pt}
+
+\end{itemize}
+
+Example:  The probability of rolling a seven with a pair of fair dice is $\frac{1}{6}$.  We have a pair of dice that may or may not be fair; let $p$ be the unknown probability they will produce a seven.
+
+Suppose we roll this pair of dice 120 times and observe a seven 25 times. 
+
+\begin{itemize}
+
+\item Construct a 95\% confidence interval for $p$ based on these results. \vspace{80pt}
+
+\item Construct a 99\% confidence interval for $p$ based on these results. \vspace{50pt}
+
+\end{itemize}
+
+Shrinking margin of error: 
+
+\newpage
+
+{\bf Choosing a sample size to get desired margin of error} \vspace{6pt}
+
+Example: We plan to take a poll to estimate $p$, the proportion of American voters who support throwing out the current health care system and putting Canada (``America's hat") in charge of US health care.  We want our 95\% margin of error to be $\leq 0.03$.  
+
+\begin{itemize}
+
+\item If we think around 25\% of Americans feel this way, how big of a sample do we need?  \vspace{100pt}
+
+\item What if we have no idea about the value of $p$?
+
+\end{itemize}
+
+
+
+
+
+
+\label{totalpag}
+\end{document}

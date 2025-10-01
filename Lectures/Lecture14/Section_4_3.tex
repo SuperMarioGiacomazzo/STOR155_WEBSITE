@@ -1,0 +1,119 @@
+\documentclass[11pt,letterpaper,twoside]{article}
+\usepackage[english]{babel}
+\usepackage{amssymb,amsmath}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+ \oddsidemargin  0in \evensidemargin 0in
+ \topmargin   -0.25in \headheight 0.25in \headsep 0.25in
+ \textwidth   6.5in \textheight 8.75in \marginparsep 0pt \marginparwidth 0pt
+ \parskip 1ex  \parindent 0ex \footskip 20pt
+
+\newfont{\bssten}{cmssbx10}
+\newfont{\bssnine}{cmssbx10 scaled 900}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\whatizit}{Lecture 14: The Binomial Distribution}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\pagestyle{fancy}  
+\fancyhead{\bssnine STOR 155,  \whatizit}
+\fancyhead[RE]{} \fancyhead[LO]{}
+\fancyhead[LE]{\bssnine \thepage} \fancyhead[RO]{\bssnine \thepage}
+\lfoot{} \cfoot{} \rfoot{}   
+
+
+\newcommand{\var}{\mathrm{Var}}
+
+
+
+\begin{document}
+
+
+
+\thispagestyle{empty} \vspace*{-0.75in}
+
+{\bssten STOR 155: Introduction to Data Models and Inference \hfill June 6, 2024 \\
+Prof. Will Lassiter  \hfill Page 1 of \pageref{totalpag}}
+\vspace{10pt}
+\begin{center} {{\Large \bf \whatizit}} \end{center}
+
+Running example: the Milgram experiment \vspace{200pt}
+
+
+{\bf The Binomial Setting} \vspace{200pt}
+
+Examples: \vspace{100pt}
+
+Non-example:
+
+\newpage
+
+{\bf The Binomial Distribution} \vspace{6pt}
+
+Two common use cases: \vspace{120pt}
+
+Possible values for $X$: \vspace{10pt}
+
+Probabilities: \vspace{200pt}
+
+Example: You play Monopoly with your siblings a lot --- so much so that you have found that you win roughly 1 out of every 20 games played.  If you and your siblings will play 20 (independent) games of Monopoly this week, what's the probability that ...
+
+\begin{itemize}
+
+\item ... you win at least once? \vspace{30pt}
+
+\item ... you win exactly twice? \vspace{30pt}
+
+\item ... you win at least twice? \vspace{30pt}
+
+\item ... you win between 1 and 5 games?
+
+\end{itemize}
+
+\newpage
+
+Example: According to a 2020 Gallup poll, 43\% of American voters identify with the Mario Party.  Suppose I sample $n$ voters at random and ask for their party identification. If $X$ represents the number of sampled voters who identify with the Mario Party, then $X$ has a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ distribution.
+
+\begin{itemize}
+
+\item If I sample 300 American voters, how many would I expect to identify with the Mario Party? \vspace{30pt}
+
+\item If I sample $n$ American voters, how many would I expect to identify with the Mario Party? \vspace{30pt}
+
+\end{itemize}
+
+Mean and variance for a binomial random variable \vspace{150pt}
+
+Back to Milgram example: \vspace{80pt}
+
+{\bf Connection between binomial and normal distributions}
+
+\newpage
+
+Example:  In 100 tosses of a fair coin ... 
+
+\begin{itemize}
+
+\item ... what's the probability of 35 or fewer heads? \vspace{80pt}
+
+\item ... what's the probability that the number of heads is within 10\% of the expected number? \vspace{80pt}
+
+\end{itemize}
+
+Example: A college has offered admission to 1200 students this cycle. The number of admitted students who will accept the offer is random; from past experience, roughly 75\% of admitted students accept. 
+
+\begin{itemize}
+
+\item Mean and standard deviation of the number accepting admission? \vspace{80pt}
+
+\item Probability that more than 950 students will accept? \vspace{80pt}
+
+\item If they decide to admit an additional 100 students off the wait list, what's the probability that more than 950 students in total will accept?
+
+\end{itemize}
+
+\label{totalpag}
+\end{document}

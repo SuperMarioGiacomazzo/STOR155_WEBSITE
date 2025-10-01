@@ -1,0 +1,81 @@
+\documentclass[11pt,letterpaper,twoside]{article}
+\usepackage[english]{babel}
+\usepackage{amssymb,amsmath}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+ \oddsidemargin  0in \evensidemargin 0in
+ \topmargin   -0.25in \headheight 0.25in \headsep 0.25in
+ \textwidth   6.5in \textheight 8.75in \marginparsep 0pt \marginparwidth 0pt
+ \parskip 1ex  \parindent 0ex \footskip 20pt
+
+\newfont{\bssten}{cmssbx10}
+\newfont{\bssnine}{cmssbx10 scaled 900}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\whatizit}{Lecture 18: Inference for a Difference of Two Proportions}
+%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\pagestyle{fancy}  
+\fancyhead{\bssnine STOR 155,  \whatizit}
+\fancyhead[RE]{} \fancyhead[LO]{}
+\fancyhead[LE]{\bssnine \thepage} \fancyhead[RO]{\bssnine \thepage}
+\lfoot{} \cfoot{} \rfoot{}   
+
+
+\newcommand{\var}{\mathrm{Var}}
+
+
+
+\begin{document}
+
+
+
+\thispagestyle{empty} \vspace*{-0.75in}
+
+{\bssten STOR 155: Introduction to Data Models and Inference \hfill June 17, 2024 \\
+Prof. Will Lassiter  \hfill Page 1 of \pageref{totalpag}}
+\vspace{10pt}
+\begin{center} {{\Large \bf \whatizit}} \end{center}
+
+Comparing two population proportions: \vspace{400pt}
+
+Example: Do a higher proportion of male college students engage in binge drinking behavior than female students?
+
+\begin{itemize}
+
+\item We randomly sampled $n_1= 5348$ male college students and found that $X_1= 1392$ engage in binge drinking behavior.
+
+\item We randomly sampled $n_2= 8471$ female college students and found that $X_1= 1748$ engage in binge drinking behavior.
+
+\end{itemize}
+
+\newpage
+
+Sampling distribution for a difference of sample proportions: \vspace{200pt}
+
+Back to example: construct a 95\% confidence interval for the difference in binge drinking rates for males and females. \vspace{150pt}
+
+Hypothesis testing for a difference of proportions:
+
+\newpage
+
+Back to example: Can we conclude that male college students engage in binge drinking behavior at a different rate than female college students at a 1\% level of significance? \vspace{250pt}
+
+Example: Growth in student cell phone use in the four years between 2000 and 2004:
+
+\begin{itemize}
+
+\item In 2000, 43\% of a random sample of 1200 students regularly used a cell phone.
+
+\item In 2004, another sample of 1200 students was taken and 89\% regularly used a cell phone.
+
+\end{itemize}
+
+Did cell phone use more than double in 4 years?
+
+
+\label{totalpag}
+\end{document}

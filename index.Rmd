@@ -142,11 +142,18 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |SEP 23| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
 |SEP 25| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
 |SEP 30| Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
-|| Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
 | OCT 2 | Midterm 1 |||1.1 - 8.3|
 | OCT 7| <span style="color: red;">Well-Being</span> ||||
-|OCT 9| Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
+| OCT 9| Conditional Probability (Cont.) |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+|| Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
+|OCT 14| Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
 | OCT 16| <span style="color: red;">Fall Break</span> ||||
+|OCT 21| Geometric Distribution |[PDF](Lectures/Lecture13/Section_4_2.pdf)||4.2|
+|| Binomial Distribution |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomia_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
+|OCT 23| Statistical Inference |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
+|| Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
+|OCT 28| Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
+|| Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
 | NOV 13| Midterm 2 ||||
 | NOV 27| <span style="color: red;">Thanksgiving</span> ||||
 | DEC 2|  ||Last Day of Class||
