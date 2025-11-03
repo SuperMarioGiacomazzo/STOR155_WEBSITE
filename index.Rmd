@@ -152,9 +152,11 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |OCT 23| Normal Distribution (Cont.) |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
 || Geometric Distribution |[PDF](Lectures/Lecture13/Section_4_2.pdf)||4.2|
 |OCT 28| Binomial Distribution |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomia_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
-|OCT 28| Statistical Inference |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
+|OCT 30| Binomial Distribution (Cont.) |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomia_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
+|| Statistical Inference |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
+|NOV 4| Statistical Inference (Cont.) |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
 || Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
-|OCT 30| Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
+|NOV 6| Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
 || Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
 | NOV 13| Midterm 2 ||||
 | NOV 27| <span style="color: red;">Thanksgiving</span> ||||
@@ -183,8 +185,8 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 |NOV 13|  | Midterm 2 | NOV 13 (CLASS)|
 |NOV 6| HW 11  | | NOV 20 (11:59PM)|
 |NOV 13| HW 12  | | DEC 2 (11:59PM)|
-|DEC 11| |Final (Section 1) |DEC 11 (4:00PM) |
-|DEC 12| |Final (Section 2) |DEC 12 (4:00PM) |
+|DEC 11| |Final (Section 2) |DEC 11 (4:00PM) |
+|DEC 12| |Final (Section 3) |DEC 12 (4:00PM) |
 |          |   |     |             |
 
 
