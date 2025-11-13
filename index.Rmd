@@ -160,8 +160,9 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |NOV 11| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
 || Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
 | NOV 13| Midterm 2 ||||
-|NOV 18| Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
-|| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/t_table.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t_distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
+|NOV 18| Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
+|| Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
+|NOV 20| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/t_table.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t_distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
 | NOV 27| <span style="color: red;">Thanksgiving</span> ||||
 | DEC 2|  ||Last Day of Class||
 | DEC 11| Final Exam ||Section 2||
