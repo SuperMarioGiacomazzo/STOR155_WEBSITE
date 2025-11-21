@@ -163,9 +163,10 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |NOV 18| Hypothesis Tests for Proportions (Cont.) |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
 |NOV 20| Hypothesis Tests for Proportions (Cont.) |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
 || Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
-|NOV 25| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/t_tables.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/T_distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
+|NOV 25| Difference in Proportions (Cont.) |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
+|| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/t_tables.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/T_distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
 | NOV 27| <span style="color: red;">Thanksgiving</span> ||||
-| DEC 2|  ||Last Day of Class||
+|DEC 2| Inference for Means with t-Distribution (Cont.) |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/t_tables.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/T_distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
 | DEC 11| Final Exam ||Section 2||
 | DEC 12| Final Exam ||Section 3||
 |||||
@@ -189,7 +190,8 @@ All HW assignments are to be submitted via Webassign. Exams will be taken on pap
 |OCT 30| HW 10  | | NOV 13 (11:59PM)|
 |NOV 13|  | Midterm 2 | NOV 13 (CLASS)|
 |NOV 6| HW 11  | | NOV 20 (11:59PM)|
-|NOV 13| HW 12  | | DEC 2 (11:59PM)|
+|NOV 27| HW 12 (Section 2)  | | DEC 11 (4:00PM)|
+|NOV 27| HW 12 (Section 3)  | | DEC 12 (4:00PM)|
 |DEC 11| |Final (Section 2) |DEC 11 (4:00PM) |
 |DEC 12| |Final (Section 3) |DEC 12 (4:00PM) |
 |          |   |     |             |
