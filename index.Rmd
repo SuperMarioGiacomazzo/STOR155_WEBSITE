@@ -155,9 +155,9 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |OCT 30| Binomial Distribution (Cont.) |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomial_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
 || Statistical Inference |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
 |NOV 4| Statistical Inference (Cont.) |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
-|| Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
-|NOV 6| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
-|NOV 11| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2|
+|| Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
+|NOV 6| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
+|NOV 11| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
 || Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
 | NOV 13| Midterm 2 ||||
 |NOV 18| Hypothesis Tests for Proportions (Cont.) |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
