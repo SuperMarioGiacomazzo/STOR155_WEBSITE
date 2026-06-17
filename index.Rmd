@@ -92,7 +92,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
         - M, 2:00PM - 3:00PM, [Zoom](https://unc.zoom.us/meetings/98315909884/invitations?signature=LzklyzI5gvEAmet4HByK5W9DBeufbGtRAxkcc3nt_ms)
         - F, 4:00PM - 5:00PM, [Zoom](https://unc.zoom.us/meetings/98315909884/invitations?signature=LzklyzI5gvEAmet4HByK5W9DBeufbGtRAxkcc3nt_ms)
     - Jack
-        - T, 10:00AM - 11:00AM, Hanes B-30
+        - W, 10:00AM - 11:00AM, Hanes B-30
         - Th, 10:00AM - 11:00AM, Hanes B-30
 
 - University Approved Absences: **[Online Form](https://uaao.unc.edu/submit-a-request/)**
