@@ -90,7 +90,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
     - Mario: M-F, 11:00AM - 11:30AM, Hanes 403
     - Erin: 
         - M, 2:00PM - 3:00PM, [Zoom](https://unc.zoom.us/meetings/98315909884/invitations?signature=LzklyzI5gvEAmet4HByK5W9DBeufbGtRAxkcc3nt_ms)
-        - F, 4:00PM - 5:00PM, [Zoom](https://unc.zoom.us/meetings/98315909884/invitations?signature=LzklyzI5gvEAmet4HByK5W9DBeufbGtRAxkcc3nt_ms)
+        - T, 4:00PM - 5:00PM, [Zoom](https://unc.zoom.us/meetings/98315909884/invitations?signature=LzklyzI5gvEAmet4HByK5W9DBeufbGtRAxkcc3nt_ms)
     - Jack
         - W, 10:00AM - 11:00AM, Hanes B-30
         - Th, 10:00AM - 11:00AM, Hanes B-30
