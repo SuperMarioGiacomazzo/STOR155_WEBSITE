@@ -141,10 +141,12 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 | | Regression |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
 |JUL 1| Regression (Cont.) |[PDF](Lectures/Lecture8/Section_8_2-3.pdf)|[test_scores](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture8/test_scores.xlsx)|8.2-8.3|
 || Probability Intro |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
-|JUL 2| Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
 | JUL 3| <span style="color: red;">Independence</span> ||||
 | JUL 6| Midterm 1 |||1.1 - 8.3|
-|JUL 7| Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
+|JUL 7| Probability Intro (Cont.) |[PDF](Lectures/Lecture9/Section_3_1.pdf)|[DieRolls](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture9/DieRolls.xlsx)|3.1|
+|| Conditional Probability |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+|JUL 8| Conditional Probability (Cont.) |[PDF](Lectures/Lecture10/Section_3_2.pdf)||3.2|
+|| Random Variables |[PDF](Lectures/Lecture11/Section_3_4.pdf)|[bookstore_sim](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture11/bookstore_sim.xlsx)|3.4|
 |JUL 8| Normal Distribution |[PDF](Lectures/Lecture12/Section_4_1.pdf)|[DensityDemo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/DensityDemo.xlsx), [Z-values](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Z-values.xlsx),[Negative_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Negative_z.pdf),[Positive_z](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture12/Positive_z.pdf)|4.1|
 |JUL 9| Geometric Distribution |[PDF](Lectures/Lecture13/Section_4_2.pdf)||4.2|
 |JUL 10| Binomial Distribution |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomial_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
