@@ -153,6 +153,7 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 || Geometric Distribution |[PDF](Lectures/Lecture13/Section_4_2.pdf)||4.2|
 |JUL 13| Geometric Distribution (Cont.) |[PDF](Lectures/Lecture13/Section_4_2.pdf)||4.2|
 || Binomial Distribution |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomial_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
+|JUL 14| Binomial Distribution (Cont.) |[PDF](Lectures/Lecture14/Section_4_3.pdf)|[binomial_plots](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/binomial_plots.xlsx),[BINOMVSNORM](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture14/BINOMVSNORM.xlsx)|4.3|
 |JUL 14| Statistical Inference |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
 |JUL 15| Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
 |JUL 16| Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
