@@ -158,11 +158,12 @@ This class is called "Introduction to Data Models and Inference", but let's not 
 |JUL 15| Statistical Inference (Cont.) |[PDF](Lectures/Lecture15/Section_5_1.pdf)|[CLT Demo](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture15/CLT_Demo.xlsx)|5.1|
 || Confidence Intervals for Proportions |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
 |JUL 16| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
+|JUL 17| Confidence Intervals for Proportions (Cont.) |[PDF](Lectures/Lecture16/Section_5_2.pdf)||5.2, 6.1|
 || Hypothesis Tests for Proportions |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
-|JUL 17| Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
 | JUL 20| Midterm 2 |||3.1 - 5.1|
-|JUL 21| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t_table.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t-distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
-| JUL 23| Last Class ||||
+|JUL 21| Hypothesis Tests for Proportions (Cont.) |[PDF](Lectures/Lecture17/Section_5_3.pdf)||5.3|
+|JUL 22| Difference in Proportions |[PDF](Lectures/Lecture18/Section_6_2.pdf)||6.2|
+|JUL 23| Inference for Means with t-Distribution |[PDF](Lectures/Lecture19/Section_7_1.pdf)|[t-table](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t_table.pdf), [t-distribution](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/t-distribution.xlsx), [redwine](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/redwine.xlsx), [P-values_for_t](https://github.com/SuperMarioGiacomazzo/STOR155_WEBSITE/raw/refs/heads/main/Lectures/Lecture19/P-values_for_t.xlsx)|7.1|
 | JUL 27 | Final Exam (11:30AM)||||
 |||||
 
